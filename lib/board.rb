@@ -1,3 +1,3 @@
-# Define the variable board below.
+lib/board.rb = "board"# Define the variable board below.
 board = "array"
 array = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
