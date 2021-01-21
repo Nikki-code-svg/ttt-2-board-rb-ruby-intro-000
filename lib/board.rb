@@ -1,2 +1,3 @@
-board= "board" # Define the variable board below.
-board = array.new(9, " ")
+
+puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "] # Define the variable board below.
+
